@@ -1,3 +1,4 @@
+#Good Morning
 #!/bin/bash
 # USE UBUNTU20.04 - INSTANCE: 2GB RAM + 2VCPU MIN - WILL ONLY WORK
 sudo apt update -y
